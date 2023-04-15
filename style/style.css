@@ -1,0 +1,176 @@
+
+/* --------------middle----------------- */
+html{
+    background-color:#101010;
+}
+.join{
+    display: flex;
+    justify-content: center;
+    margin-top: 222px;
+    
+
+}
+.gdschead{
+    color: #FFFFFF;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 800;
+font-size: 52.69px;
+}
+.logo{
+    display: block;
+    text-align: center;
+}
+.joinnow{
+width: 239.27px;
+height: 52.5px;
+border-radius: 37.8521px;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 800;
+font-size: 20.7963px;
+background: #FFFFFF;
+
+border: none;
+margin-bottom: 119.5px;
+}
+.joinnow a{
+    text-decoration: none;
+    color: #101010;
+}
+/* ------------------assist------------------------------------ */
+.assit{
+    display: block;
+background-color: #131313;
+height: 662px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 3fr 11fr;
+    /* padding-left: 126px;  */
+}
+.imgassit{
+    padding-top:204px;
+    padding-left: 126px;
+    /* padding-bottom: 136px; */
+
+}
+.txt{
+    padding-top: 155px;
+        padding-right: 69px;
+    /* padding-bottom: 87px; */
+}
+.about{
+    color:  #5A5A5A;
+    font-family: 'Google Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20.21px;
+line-height: 27px;
+padding-left: 72px;
+padding-right: 72px;
+}
+.imgassit img{
+    width: 322px;
+}
+.assit h3{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 800;
+font-size: 30.2097px;
+    padding-top: 43px;
+    padding-left: 100px;
+    width: 235px;
+    color: #FFFFFF;
+}
+/* ----------------------cardspastevent------------------------------- */
+.pasteve h2{
+    color: #FFFFFF;
+    display: block;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30.2097px;
+    line-height: 37px;
+    text-align: center;
+    padding-top: 79px;
+}
+.container2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    padding-left: 130px;
+    padding-right: 129px;
+    padding-top: 71.06px;
+    padding-bottom: 91.34px;
+}
+.container3{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    justify-content: center;
+    padding-left: 130px;
+    padding-right: 129px;
+    padding-top: 71.06px;
+    padding-bottom: 91.34px;
+}
+.col1{
+color: #858585;
+margin: 27.59px;
+background-color: #181818;
+border-radius: 3.42676px;
+height: 290.66px;
+width: 234.55px;
+text-align: center;
+align-items: center;
+border-bottom :6px solid #109D58;
+
+}
+.col1 img{
+    margin-top: 31.27px;
+}
+.col1 p{
+    padding: 0px 27.59px 0px 27.59px;
+}
+#pa2{
+    border-bottom :6px solid #FABC05;
+}
+#pa3{
+    border-bottom :6px solid #E94436;
+}
+#pa4{
+    border-bottom :6px solid #4284F0;
+}
+/* #pa2{
+    border-bottom :6px solid #109D58;
+}
+#pa2{
+    border-bottom :6px solid #109D58;
+}
+#pa2{
+    border-bottom :6px solid #109D58;
+}
+#pa2{
+    border-bottom :6px solid #109D58;
+} */
+
+.foot{
+    display: flex;
+height: 54px;
+    background-color: #272727;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.foot h1{
+    color: #FFFFFF;
+    font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 21.47px;
+}
+
+
+
+
+
